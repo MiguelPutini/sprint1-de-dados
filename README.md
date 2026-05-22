@@ -77,7 +77,7 @@ Resumo da Arquitetura: Essa combinação cria um sistema robusto no backend e ex
 6. Acesse: `http://localhost:5000`
 
 ---
-Desenvolvido para o Sprint de IA.
+Desenvolvido para o Sprint de dados.
 
 Miguel Putini 571624
 Julia Junqueira Konishi 569506
